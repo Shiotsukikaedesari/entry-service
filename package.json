@@ -2,9 +2,9 @@
   "name": "entry-service",
   "version": "0.0.1",
   "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "author": "Shiotsuki_",
+  "private": false,
+  "license": "AGPL-3.0",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
